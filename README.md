@@ -15,8 +15,8 @@
 
 ## Install Dependencies:
 
-cd portfolio
-npm install
+- cd portfolio
+- npm install
 
 ## Run the Development Server:
 
