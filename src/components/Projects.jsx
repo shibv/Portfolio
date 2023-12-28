@@ -13,8 +13,8 @@ const Projectdata = [
   {
       name : "Cryptzy",
       desc : "Crypto Currency Tracker web application. Users can now learn about the profit (%) and loss (%) in the preceding 24 hours, as well as the market cap and pricing. Utilising CoinGecko API data, we created a completely responsive 80+ cryptocurrency.  ",
-      github_link : "https://github.com/shibv/JAPAN-Real-Estate-Valuation",
-      deployed_link : "https://jp-real-estate-valuation.streamlit.app/",
+      github_link : "https://github.com/shibv/cryptzy",
+      deployed_link : "https://cryptzyi.vercel.app/",
       img : cryptzy
   },
   {
