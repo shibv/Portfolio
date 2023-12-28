@@ -22,6 +22,6 @@
 
 npm run dev
 
-![Screenshot (90)](https://github.com/shibv/Portfolio/blob/main/src/assets/portfolio.png)
+[![portfolio.png](https://i.postimg.cc/tCxVcrWm/portfolio.png)](https://postimg.cc/fJMLtfHx)
 
 <!-- https://github.com/shibv/Portfolio/blob/main/src/assets/portfolio.png -->
