@@ -1,6 +1,6 @@
 import React from 'react'
 import img from "../assets/avt.png"
-import resume from "../assets/shiv_iiit.pdf"
+
 
 
 const Navbar = () => {
