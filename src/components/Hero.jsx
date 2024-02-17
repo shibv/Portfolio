@@ -43,7 +43,7 @@ export const Hero = () => {
                         <a href='https://www.linkedin.com/in/shiv-shankar-singh-2b11ba188/' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
                     </li>
                     <li>
-                    <a href='https://www.linkedin.com/in/shiv-shankar-singh-2b11ba188/' rel="noreferrer" target="_blank"><SiCodeforces size={30} /></a>
+                    <a href='https://codeforces.com/profile/Dshiv' rel="noreferrer" target="_blank"><SiCodeforces size={30} /></a>
                     </li>
                 </ul>
             </div>
