@@ -2,8 +2,10 @@ import React , { useState} from 'react'
 import hr from '../assets/curve-hr.svg'
 import gif from '../assets/f.gif'
 
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {  faGithub, faInstagram, faLinkedinIn, faTwitter } from "@fortawesome/free-brands-svg-icons";
+import {  faGithub, faLinkedinIn, faTwitter, faCodepen } from "@fortawesome/free-brands-svg-icons";
+import { SiCodeforces } from "react-icons/si";
 
 
 export const Hero = () => {
@@ -25,7 +27,7 @@ export const Hero = () => {
                 <div className="flex flex-col w-full mt-8">
                     <h1 className="text-xl text-gray-400">Hi, I'm</h1>
                     <h1 className="text-2xl font-bold">Shiv Shankar Singh</h1>
-                    <p class="text-xl font-bold text-gray-300">Full Stack Developer</p>
+                    <p className="text-xl font-bold text-gray-300">Full Stack Developer</p>
                     <p className="text-md font-light text-gray-400 ">Enthusiastic and motivated self-learning in Information Technology. Interested in exploring about Web Development and Competitive Programming.</p>
                 </div>
                
@@ -39,6 +41,9 @@ export const Hero = () => {
                     </li>
                     <li>
                         <a href='https://www.linkedin.com/in/shiv-shankar-singh-2b11ba188/' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
+                    </li>
+                    <li>
+                    <a href='https://www.linkedin.com/in/shiv-shankar-singh-2b11ba188/' rel="noreferrer" target="_blank"><SiCodeforces size={30} /></a>
                     </li>
                 </ul>
             </div>

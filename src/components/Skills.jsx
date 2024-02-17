@@ -6,40 +6,51 @@ import 'slick-carousel/slick/slick-theme.css';
 
 import javascript from "../assets/skills/javascript.svg"
 import bash from "../assets/skills/bash.svg"
-import kvm from "../assets/skills/kvm.svg"
 import linux from "../assets/skills/linux.svg"
 import python from "../assets/skills/python.svg"
 import reactIcon from "../assets/skills/react.svg"
 import tailwind from "../assets/skills/tailwind.svg"
-import mikrotik from "../assets/skills/mikrotik.svg"
-import kubernetes from "../assets/skills/kubernetes.svg"
-import ansible from "../assets/skills/ansible.svg"
 import windows from "../assets/skills/windows.svg"
 import react from "../assets/skills/react.svg"
-import cisco from "../assets/skills/cisco.svg"
 import docker from "../assets/skills/docker.svg"
 import git from "../assets/skills/git.svg"
 import express from "../assets/skills/express.svg"
 import gitlab from "../assets/skills/gitlab.svg"
-
+import nodejs from "../assets/skills/nodejs.svg"
 import hr from "../assets/curve-hr.svg"
+import html from "../assets/skills/html.svg"  
+import mongodb from "../assets/skills/mongodb.svg" 
 
 
 const SkillList = [
-  {
-    name : "bash",
-    img: bash,
-  },
+  
   {
     name : "javascript",
     img: javascript,
   },
  
   {
-    name : "kvm",
-    img: kvm,
+    name : "html",
+    img: html,
   },
- 
+  {
+    name : "tailwind",
+    img: tailwind,
+  },
+  {
+    name : "nodejs",
+    img: nodejs,
+  },
+
+  {
+    name:"mongodb",
+    img: mongodb,
+  },
+  {
+    name:"react",
+    img: react,
+  },
+   
   {
     name : "linux",
     img: linux,
@@ -48,35 +59,7 @@ const SkillList = [
     name : "reactIcon",
     img: reactIcon,
   },
-  {
-    name : "tailwind",
-    img: tailwind,
-  },
-  {
-    name : "mikrotik",
-    img: mikrotik,
-  },
-  {
-    name : "kubernetes",
-    img: kubernetes,
-  },
- 
-  {
-    name:"ansible",
-    img: ansible,
-  },
-  {
-    name:"windows",
-    img: windows,
-  },
-  {
-    name:"react",
-    img: react,
-  },
-  {
-    name:"cisco",
-    img: cisco,
-  },
+
   {
     name:"docker",
     img: docker,
@@ -97,6 +80,10 @@ const SkillList = [
   {
     name:"python",
     img: python,
+  },
+  {
+    name : "bash",
+    img: bash,
   },
 
  

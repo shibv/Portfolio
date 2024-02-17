@@ -10,6 +10,7 @@ import Projects from './components/Projects';
 import Footer from './components/Footer';
 
 
+
 function App() {
   useEffect(() => {
     document.title = 'Shiv Shankar Singh';
