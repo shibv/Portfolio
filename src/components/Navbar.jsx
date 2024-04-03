@@ -5,7 +5,7 @@ import cov from '../assets/cov-3.png'
 
 const Navbar = () => {
   return (
-    <div className='fixed z-50 bg-black w-full top-0 left-0 px-8 py-4 lg:px-20 xl:px-36'>
+    <div className='fixed z-50  w-full top-0 left-0 px-8 py-4 lg:px-20 xl:px-36'>
         <div className="flex justify-between items-center text-white">
             <img src={cov} className="App-logo w-10  rounded-full" alt="logo" />
             <ul className="hidden md:flex">
