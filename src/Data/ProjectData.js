@@ -2,22 +2,30 @@ import cryptzy from '../assets/cryptzzy.png'
 import JapanPrediction  from '../assets/JapanPrediction .png'
 import notes from "../assets/notes_app.png"
 import Homyz from '../assets/Homyz.png'
+import Hoomyz from '../assets/Hoomyz.png'
 import foodz from '../assets/foodz.png'
 import Twitzy from '../assets/Twitzy.png'
+import TextEditzy from "../assets/TextEditor.png"
 
 
 
 
  const Projectdata = [
         {
-            name: "Hoomyz - a Real Estate site",
+            name: "Hoomyz - A Real Estate Site",
             desc: "Developed a full-stack responsive real estate website with secure authentication, empowering administrators to execute CRUD operations. • Implemented secure authentication utilizing JWT and bcrypt.js, augmented by Firebase authentication for enhanced security. • Developed the backend infrastructure using NodeJS and ExpressJS, with MongoDB as the database solution ",
             github_link : "https://github.com/shibv/Homyz",
             deployed_link : "https://hoomyzz.onrender.com/",
-            img : Homyz,
+            img : Hoomyz,
         },
+        {
+            name: " TextEditzy : A Real Time Text Editor",
+            desc: "Our project is a real-time text editor developed using Node.js, Socket.IO, and MongoDB. It enables collaborative text editing in authenticated rooms, ensuring data persistence across sessions. Users can collaborate seamlessly, seeing changes in real-time, while MongoDB stores the data securely for access and retrieval. ",
+            github_link : "https://github.com/shibv/TextEditor",
+            img : TextEditzy,
+         },
       {
-          name : "Cryptzy",
+          name : "Cryptzy : A Crpyto Market",
           desc : "Built a responsive Crypto Currency Tracker with real-time dynamic graphs using Chart.js for profit/loss (%) over the previous 24hrs, 6 months and market data. • Utilized CoinGecko API to dynamically fetch and display real-time data for over 80 cryptocurrencies. • TechStack consisted of HTML, CSS, JavaScript, React.js, Tailwind CSS, and Redux Toolkit. ",
           github_link : "https://github.com/shibv/cryptzy",
           deployed_link : "https://cryptzyi.vercel.app/",
@@ -59,6 +67,7 @@ import Twitzy from '../assets/Twitzy.png'
           deployed_link : "https://real-estate-site-pink.vercel.app/",
           img : Homyz,
       },
+      
       
      
     ]
