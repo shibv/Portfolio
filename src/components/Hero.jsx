@@ -27,7 +27,7 @@ export const Hero = () => {
                 <div className="flex flex-col w-full mt-8">
                     <h1 className="text-xl text-gray-400">Hi, I'm</h1>
                     <h1 className="text-2xl font-bold">Shiv Shankar Singh</h1>
-                    <p className="text-xl font-bold text-gray-300">Full Stack Developer</p>
+                    <p className="text-xl font-bold text-gray-300">Software Developer</p>
                     <p className="text-md font-light text-gray-400 ">Enthusiastic and motivated self-learning in Information Technology. Interested in exploring about Web Development and Competitive Programming.</p>
                 </div>
                
