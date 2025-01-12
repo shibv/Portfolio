@@ -25,7 +25,7 @@ import Quoranmyous from '/Quora.png'
             img : TextEditzy,
          },
          {
-            name : "Quronymous  : A Crpyto Market",
+            name : "Quronymous  : A Anonymous Messaging App",
             desc : "Quronymous lets you send and receive anonymous messages easily. Generate a unique link, share it, and respond to messages publicly or privately. Built with the MERN stack for seamless interaction. ",
             github_link : "https://github.com/shibv/Quronymous",
             deployed_link : "https://quronymous.vercel.app/",

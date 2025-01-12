@@ -48,7 +48,7 @@ const Home = () => {
           >
             <div className="space-y-2">
               <h2 className="text-xl font-medium text-blue-400">Hi, I'm</h2>
-              <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+              <h1 className="text-3xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
                 Shiv Shankar Singh
               </h1>
               <p className="text-xl font-semibold text-gray-300">
@@ -58,8 +58,8 @@ const Home = () => {
 
             <p className="text-lg text-gray-400">
               Currently pursuing B.Tech in Computer Science at IIIT Kalyani.
-              Software Engineer Intern at SuperBolter, with experience in
-              full-stack development and a passion for competitive programming.
+              Software Developer Intern at Shopflo , with experience in
+              software development and a passion for competitive programming.
             </p>
 
             <div className="flex flex-wrap gap-2">
