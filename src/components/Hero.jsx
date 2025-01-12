@@ -48,10 +48,10 @@ const Home = () => {
           >
             <div className="space-y-2">
               <h2 className="text-xl font-medium text-blue-400">Hi, I'm</h2>
-              <h1 className="text-3xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+              <h1 className="text-2xl font-bold tracking-tight text-gray-300 sm:text-5xl lg:text-6xl">
                 Shiv Shankar Singh
               </h1>
-              <p className="text-xl font-semibold text-gray-300">
+              <p className="text-xl font-semibold text-gray-400">
                 Software Developer & Competitive Programmer
               </p>
             </div>
