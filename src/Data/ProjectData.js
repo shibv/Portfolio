@@ -6,7 +6,7 @@ import Hoomyz from '../assets/Hoomyz.png'
 import foodz from '../assets/foodz.png'
 import Twitzy from '../assets/Twitzy.png'
 import TextEditzy from "../assets/TextEditor.png"
-
+import Quoranmyous from '/Quora.png'
 
 
 
@@ -24,6 +24,13 @@ import TextEditzy from "../assets/TextEditor.png"
             github_link : "https://github.com/shibv/TextEditor",
             img : TextEditzy,
          },
+         {
+            name : "Quronymous  : A Crpyto Market",
+            desc : "Quronymous lets you send and receive anonymous messages easily. Generate a unique link, share it, and respond to messages publicly or privately. Built with the MERN stack for seamless interaction. ",
+            github_link : "https://github.com/shibv/Quronymous",
+            deployed_link : "https://quronymous.vercel.app/",
+            img : Quoranmyous
+        },
       {
           name : "Cryptzy : A Crpyto Market",
           desc : "Built a responsive Crypto Currency Tracker with real-time dynamic graphs using Chart.js for profit/loss (%) over the previous 24hrs, 6 months and market data. • Utilized CoinGecko API to dynamically fetch and display real-time data for over 80 cryptocurrencies. • TechStack consisted of HTML, CSS, JavaScript, React.js, Tailwind CSS, and Redux Toolkit. ",
